@@ -77,30 +77,11 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marius-Elting&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
   
 
 <br/>  
 
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=marius-elting&&style=flat-square" align="center" />
-</div>  
   
   <div align="center">
 <img src="https://gitpiper.com/assets/memes/programming-meme-e4d7062f-d839-414e-984c-332866c86602.webp" align="center" style="width: 300px" />
 </div>  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center" width="300">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

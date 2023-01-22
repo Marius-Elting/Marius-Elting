@@ -83,7 +83,7 @@
 <br/>  
 
   ## Meme
-<div align="center"><img src="https://gitpiper.com/assets/memes/programming-meme-e4d7062f-d839-414e-984c-332866c86602.webp" align="center" style="width: 400px" />
+<div align="center"><img src="https://www.thecoderpedia.com/wp-content/uploads/2020/06/Programming-Memes-Programmer-while-sleeping.jpg" align="center" style="width: 400px" />
 </div>  
   <div align="center">
 </div>  

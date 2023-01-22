@@ -2,7 +2,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
 ### <div align="center">Hi, I'm Marius an, Junior Front End Developer</div>  
   
 
@@ -94,6 +93,9 @@
 <img src="https://komarev.com/ghpvc/?username=marius-elting&&style=flat-square" align="center" />
 </div>  
   
+  <div align="center">
+<img src="https://gitpiper.com/assets/memes/programming-meme-e4d7062f-d839-414e-984c-332866c86602.webp" align="center" style="width: 100%" />
+</div>  
 
 <br/>  
 

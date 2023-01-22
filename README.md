@@ -1,8 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="./hello-world.jpg" align="center" style="width: 100%" />
+
 </div>  
   
-### <div align="center">Hi, I'm Marius an, Junior Front End Developer</div>  
+### <div align="center">Hi, I'm Marius, an Junior Front End Developer</div>  
   
 
 - 🔭 I am currently finishing my advanced training to become a Full Stack Web Developer at [Super(code)](https://www.super-code.de/)  
@@ -61,7 +62,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<div align="start">
 <a href="https://github.com/marius-elting" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -81,7 +82,8 @@
 
 <br/>  
 
-  
+  ## Meme
+<div align="center"><img src="https://gitpiper.com/assets/memes/programming-meme-e4d7062f-d839-414e-984c-332866c86602.webp" align="center" style="width: 400px" />
+</div>  
   <div align="center">
-<img src="https://gitpiper.com/assets/memes/programming-meme-e4d7062f-d839-414e-984c-332866c86602.webp" align="center" style="width: 400px" />
 </div>  

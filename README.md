@@ -103,4 +103,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center" width="300">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

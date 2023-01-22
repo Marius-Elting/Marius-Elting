@@ -94,7 +94,7 @@
 </div>  
   
   <div align="center">
-<img src="https://gitpiper.com/assets/memes/programming-meme-e4d7062f-d839-414e-984c-332866c86602.webp" align="center" style="width: 100%" />
+<img src="https://gitpiper.com/assets/memes/programming-meme-e4d7062f-d839-414e-984c-332866c86602.webp" align="center" style="width: 300px" />
 </div>  
 
 <br/>  

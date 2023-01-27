@@ -3,7 +3,7 @@
 
 </div>  
   
-### <div align="center">Hi, I'm Marius, an Junior Front End Developer</div>  
+### <div align="center">Hi, I'm Marius, an Junior Full End Developer</div>  
   
 
 - 🔭 I am currently finishing my advanced training to become a Full Stack Web Developer at [Super(code)](https://www.super-code.de/)  

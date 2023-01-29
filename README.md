@@ -71,6 +71,9 @@
 <a href="https://linkedin.com/in/marius-elting" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+  <a href="https://mariuselting.dev" target="_blank">
+<img src=https://img.shields.io/badge/My_Portfolio-%230a2e71.svg?&style=for-the-badge&logo=googlechrome&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 </div>  
   
 

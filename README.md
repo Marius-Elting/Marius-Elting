@@ -81,7 +81,7 @@
 
 
 ## Github Stats  
-<div align="start"><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&username=marius-elting" align="center" /></div>  
+<div align="start"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marius-Elting&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" align="center" /></div>  
 
   
 

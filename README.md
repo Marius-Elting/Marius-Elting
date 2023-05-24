@@ -84,9 +84,9 @@
 
 ## Github Stats  
   <div align="start">  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marius-Elting&theme=github_dark" height="200" alt="languages graph"  />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marius-Elting&theme=github_dark" height="200" alt="languages graph"  />
 
 </div>  
-
 
 <br/>  
 

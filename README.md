@@ -83,10 +83,10 @@
 
 
 ## Github Stats  
-<div align="start">  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marius-Elting&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <div align="start">  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marius-Elting&theme=github_dark" height="200" alt="languages graph"  />
+
 </div>  
 
-  
 
 <br/>  
 

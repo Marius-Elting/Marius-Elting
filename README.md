@@ -14,7 +14,16 @@
 
 - 🌐 Visit my Portfolio -> [mariuselting.dev](https://mariuselting.dev/)  
 
+### My Favorite Projects
+
+<p align="left">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marius-Elting&repo=Silent-Moon-Frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marius-Elting&repo=My-Portfolio-NextJS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+</p>
+
+
+
 
 <br/>  
 
@@ -86,6 +95,8 @@
 <div align="start">  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marius-Elting&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>  
 
+
+  
   
 
 <br/>  

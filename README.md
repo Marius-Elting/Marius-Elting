@@ -8,7 +8,7 @@
 
 - 📆 Recently I finished my advanced training to become a Full Stack Web Developer at [Super(code)](https://www.super-code.de/) 
 
-- 🔭 Currently I'm learning Java☕️ while working at [Super(code)](https://www.super-code.de/) as an "Assistant Trainer"
+- 🔭 Currently I'm learning Java☕️ while working at [Capco Solution Services](https://www.capco.com/) as an "Full-Stack developer"
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
 

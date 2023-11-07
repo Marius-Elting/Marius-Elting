@@ -18,6 +18,8 @@
 
 <br/>  
 
+<a href="https://www.codewars.com/users/Marous" ><img src=https://www.codewars.com/users/Marous/badges/large /></a>
+
 
 ## My Skill Set  
 <table align="center"><tr><td valign="top" width="33%">

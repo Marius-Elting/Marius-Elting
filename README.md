@@ -6,11 +6,10 @@
 ### <div align="center">Hi, I'm Marius, Full Stack Developer</div>  
   
 
-- 📆 Recently I finished my advanced training to become a Full Stack Web Developer at [Super(code)](https://www.super-code.de/) 
 
-- 🔭 Currently I'm learning Java☕️ while working at [Capco Solution Services](https://www.capco.com/) as an "Full-Stack developer"
+- 🔭 Currently I'm learning Java☕️ while working at [Capco Zurich](https://www.capco.com/) as an "Full-Stack developer" with focus on developing AI based solutions
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to AI development and related technologies  
 
 - 🌐 Visit my Portfolio -> [mariuselting.dev](https://mariuselting.dev/)  
 

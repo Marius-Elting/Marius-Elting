@@ -7,7 +7,7 @@
   
 
 
-- 🔭 Currently I'm learning Java☕️ while working at [Capco Zurich](https://www.capco.com/) as an "Full-Stack developer" with focus on developing AI based solutions
+- 🔭 Currently I'm developing end to end AI applications as a Consultant at [Capco Zurich](https://www.capco.com/).
 
 - ❓ Ask me about anything related to AI development and related technologies  
 
